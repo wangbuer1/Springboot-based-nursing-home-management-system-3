@@ -69,7 +69,11 @@
 
 ![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271614148.jpg)
 
+## 获取方式
 
+扫描下方，回复关键词  ：**养老院** ，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 
 
